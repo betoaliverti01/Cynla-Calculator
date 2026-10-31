@@ -1,0 +1,6 @@
+{
+  "name": "Cynla Calculator",
+  "description": "Calculadora digital vintage inspirada nos anos 70 e 80, desenvolvida com Python e Tkinter. Design retro-tech fiel, modo didático de programação e testes automatizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
